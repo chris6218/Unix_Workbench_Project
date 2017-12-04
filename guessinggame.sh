@@ -25,4 +25,4 @@ do
 	fi
 done
 
-echo "You guessed correctly!!!"
+echo "You guessed correctly!!!" \n
